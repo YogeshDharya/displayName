@@ -1,0 +1,8 @@
+.theform{
+    display:flex;
+    align-items: center;
+    
+  }
+  .theinputs{
+    height: 20px;
+  }
